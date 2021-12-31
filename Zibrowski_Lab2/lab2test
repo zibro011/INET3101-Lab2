@@ -1,0 +1,496 @@
+Script started on 2021-02-15 21:15:06-06:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="120" LINES="30"]
+]0;zibro011@DESKTOP-D2RL0K4: /mnt/c/Users/zibad/Documents/GitHub/colab_INET3101/Lab 2[01;32mzibro011@DESKTOP-D2RL0K4[00m:[01;34m/mnt/c/Users/zibad/Documents/GitHub/colab_INET3101/Lab 2[00m$ gcc lab2.c
+]0;zibro011@DESKTOP-D2RL0K4: /mnt/c/Users/zibad/Documents/GitHub/colab_INET3101/Lab 2[01;32mzibro011@DESKTOP-D2RL0K4[00m:[01;34m/mnt/c/Users/zibad/Documents/GitHub/colab_INET3101/Lab 2[00m$ gcc lab2.c[3P./a.out
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 1
+
+The database is currently empty. Please add records.
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 3
+
+Size of database: 0 bytes
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 4
+Enter day: 5 30
+Enter month: 5
+Enter year: 2000
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 4
+Enter day: 12
+Enter month: 1
+Enter year: 1999
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 1
+
+
+Record Number: 1
+----------------
+Birth Day: 30
+Birth Month: 5
+Birth Year: 2000
+Combined Birthday: 30/5/2000
+
+
+Record Number: 2
+----------------
+Birth Day: 12
+Birth Month: 1
+Birth Year: 1999
+Combined Birthday: 12/1/1999
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 5
+
+Which record do you want to delete? Enter 1 - 2: 2
+Record 2 deleted successfully.
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 1
+
+
+Record Number: 1
+----------------
+Birth Day: 30
+Birth Month: 5
+Birth Year: 2000
+Combined Birthday: 30/5/2000
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 2
+
+Number of records: 1
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 3
+
+Size of database: 12 bytes
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 4
+Enter day: 19
+Enter month: 9
+Enter year: 1998
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 4
+Enter day: 6
+Enter month: 7
+Enter year: 2000
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 4
+Enter day: 16
+Enter month: 4
+Enter year: 2001
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 4
+Enter day: 30  29
+Enter month: 8
+Enter year: 1999
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 1
+
+
+Record Number: 1
+----------------
+Birth Day: 30
+Birth Month: 5
+Birth Year: 2000
+Combined Birthday: 30/5/2000
+
+
+Record Number: 2
+----------------
+Birth Day: 19
+Birth Month: 9
+Birth Year: 1998
+Combined Birthday: 19/9/1998
+
+
+Record Number: 3
+----------------
+Birth Day: 6
+Birth Month: 7
+Birth Year: 2000
+Combined Birthday: 6/7/2000
+
+
+Record Number: 4
+----------------
+Birth Day: 16
+Birth Month: 4
+Birth Year: 2001
+Combined Birthday: 16/4/2001
+
+
+Record Number: 5
+----------------
+Birth Day: 29
+Birth Month: 8
+Birth Year: 1999
+Combined Birthday: 29/8/1999
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 2
+
+Number of records: 5
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 3
+
+Size of database: 60 bytes
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 6
+
+Number of database accesses: 12
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 5
+
+Which record do you want to delete? Enter 1 - 5: 5
+Record 5 deleted successfully.
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 1
+
+
+Record Number: 1
+----------------
+Birth Day: 30
+Birth Month: 5
+Birth Year: 2000
+Combined Birthday: 30/5/2000
+
+
+Record Number: 2
+----------------
+Birth Day: 19
+Birth Month: 9
+Birth Year: 1998
+Combined Birthday: 19/9/1998
+
+
+Record Number: 3
+----------------
+Birth Day: 6
+Birth Month: 7
+Birth Year: 2000
+Combined Birthday: 6/7/2000
+
+
+Record Number: 4
+----------------
+Birth Day: 16
+Birth Month: 4
+Birth Year: 2001
+Combined Birthday: 16/4/2001
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 3
+
+Size of database: 48 bytes
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 5
+
+Which record do you want to delete? Enter 1 - 4: 4
+Record 4 deleted successfully.
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 5
+
+Which record do you want to delete? Enter 1 - 3: 3
+Record 3 deleted successfully.
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 3
+
+Size of database: 24 bytes
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 5
+
+Which record do you want to delete? Enter 1 - 2: 2
+Record 2 deleted successfully.
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 5
+
+Which record do you want to delete? Enter 1 - 1: 1
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 1
+
+The database is currently empty. Please add records.
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 3
+
+Size of database: 0 bytes
+
+MENU
+====================
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+Enter selection: 7
+]0;zibro011@DESKTOP-D2RL0K4: /mnt/c/Users/zibad/Documents/GitHub/colab_INET3101/Lab 2[01;32mzibro011@DESKTOP-D2RL0K4[00m:[01;34m/mnt/c/Users/zibad/Documents/GitHub/colab_INET3101/Lab 2[00m$ exit
+exit
+
+Script done on 2021-02-15 21:18:33-06:00 [COMMAND_EXIT_CODE="0"]
